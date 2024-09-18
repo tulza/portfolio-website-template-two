@@ -15,7 +15,7 @@
       onCreate = {
         install = ''
           npm ci --prefer-offline --no-audit --no-progress --timing || npm i --no-audit --no-progress --timing
-          yes | npx astro add tailwind'';
+          yes | npx astro add netlify'';
         # Open editors for the following files by default, if they exist:
         default.openFiles = [ "src/pages/index.astro" ];
       };
