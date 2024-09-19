@@ -252,6 +252,7 @@ Returning to IDX, your code should now be pushed! If you were to look at your Gi
 ![image](https://github.com/user-attachments/assets/f9f80266-b190-4678-9c0e-0e2bdecd2947)
 ***
 **Step 33:** Click on your account (ignore orgnaizations if you have any)
+
 ![image](https://github.com/user-attachments/assets/3305de32-634f-4e29-b1d4-9a4914111434)
 ***
 **Step 34:** Select to only use your new repository
@@ -259,6 +260,7 @@ Returning to IDX, your code should now be pushed! If you were to look at your Gi
 Navigate and select your forked portfolio website like such:
 
 ![image](https://github.com/user-attachments/assets/6ba300f4-cbd2-40b1-90e9-18a4e8f8b5de)
+![image](https://github.com/user-attachments/assets/a0aef109-b576-4371-b952-37a4b8c2ff72)
 ![image](https://github.com/user-attachments/assets/712d6611-0d07-4084-ad58-d124cfc81d87)
 ***
 **Step 35: Install**
@@ -271,7 +273,6 @@ Navigate and select your forked portfolio website like such:
 ***
 **Step 37:** Ensure in build settings the following is enabled (optional)
 
-![image](https://github.com/user-attachments/assets/a617a87b-eda2-4757-9b6e-cd5f052f8c6e)
 ![image](https://github.com/user-attachments/assets/a617a87b-eda2-4757-9b6e-cd5f052f8c6e)
 ![image](https://github.com/user-attachments/assets/bc7ed6d5-5129-43e9-9290-c38b0d4ba134)
 
