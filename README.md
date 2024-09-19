@@ -259,7 +259,6 @@ Returning to IDX, your code should now be pushed! If you were to look at your Gi
 Navigate and select your forked portfolio website like such:
 
 ![image](https://github.com/user-attachments/assets/6ba300f4-cbd2-40b1-90e9-18a4e8f8b5de)
-![image](https://github.com/user-attachments/assets/a0aef109-b576-4371-b952-37a4b8c2ff72)
 ![image](https://github.com/user-attachments/assets/712d6611-0d07-4084-ad58-d124cfc81d87)
 ***
 **Step 35: Install**
