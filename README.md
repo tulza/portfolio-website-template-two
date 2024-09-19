@@ -322,7 +322,7 @@ You should now see your new domain down the right hand side!
 
 Success!
 ***
-**Step 42: ** *Extra for experts* 
+**Step 42:** *Extra for experts* 
 
 If you have a custom domain name, from a domain provider like Namecheap/Cloudflare etc, you can follow the steps here to point it at Netlify!
 
