@@ -3,7 +3,7 @@
 ## 📃 License
 This project is licensed under the MIT License. See the `LICENSE` file for details.
 
-## Creating and Deploying a Portfolio on GitHub and Netlify
+## Instructions
 
 ***
 **Step 1:** Edit global.css
