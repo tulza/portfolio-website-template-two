@@ -1,9 +1,9 @@
 ---
-title: "Explosives 101"
+title: "Explosives 130"
 author: Tulza
 date: "19-09-2024"
 image:
-  url: "/post-1-1.png"
+  url: "/post-2.png"
   alt: "Post Thumbnail"
 ---
 

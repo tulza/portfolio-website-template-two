@@ -1,19 +1,19 @@
 ---
-title: 'Example Project'
-description: 'Enter a project description here'
+title: "My portfolio website"
+description: "wow a portfolio website? in a portfolio website??"
 image:
-    url: '/GitHub.webp'
-    alt: 'GitHub wallpaper'
+  url: "/proj-1-1.png"
+  alt: "GitHub wallpaper"
 worksImage1:
-    url: '/image-1.webp'
-    alt: 'first image of your project.'
+  url: "/proj-1-1.png"
+  alt: "first image of your project."
 worksImage2:
-    url: '/image-2.webp'
-    alt: 'second image of your project.'
+  url: "/proj-1-2.png"
+  alt: "second image of your project."
 platform: Web
-stack: Astro, JavaScript
-website: https://example.site/
-github: https://github.com/user/repo
+stack: React, Typescript, TailwindCSS
+website: https://tulza.github.io/Tulza-dev/
+github: https://github.com/tulza/Tulza-dev
 ---
 
 Write more details about your project here!
